@@ -2,7 +2,7 @@
   "food": [
   {
     "id": 1,
-    "title": "Sopa"
+    "title": "Sopas"
   },
   {
     "id": 2,
@@ -10,15 +10,15 @@
   },
   {
     "id": 3,
-    "title": "Taco"
+    "title": "Tacos"
   },
   {
     "id": 4,
-    "title": "Atún"
+    "title": "Crema"
   },
   {
     "id": 5,
-    "title": "Quiche"
+    "title": "Apple"
   },
   {
     "id": 6,
@@ -50,7 +50,7 @@
   },
   {
     "id": 13,
-    "title": "Crema"
+    "title": "Menta"
   },
   {
     "id": 14,
@@ -66,7 +66,7 @@
   },
   {
     "id": 17,
-    "title": "Puré"
+    "title": "Penas"
   },
   {
     "id": 18,
