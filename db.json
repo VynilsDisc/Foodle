@@ -1,5 +1,35 @@
-[
-   {
-      "word": "pizzas"
-   }
-]
+{
+  "food": [
+    {
+      "id": 1,
+      "title": "hello"
+    },
+     {
+    "word": "arise",
+    "score": 36368
+  },
+  {
+    "word": "awake",
+    "score": 9768
+  },
+  {
+    "word": "apple",
+    "score": 7840
+  },
+  {
+    "word": "board",
+    "score": 6199
+  },
+  {
+    "word": "break",
+    "score": 5833
+  },
+  {
+    "word": "order",
+    "score": 5718
+  }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
