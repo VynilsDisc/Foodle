@@ -2,103 +2,83 @@
   "food": [
    {
     "id": 1,
-    "word": "Sopas",
-    "score": 4500
+    "word": "Sopas"
   },
   {
     "id": 2,
-    "word": "Pizza",
-    "score": 7800
+    "word": "Pizza"
   },
   {
     "id": 3,
-    "word": "Tacos",
-    "score": 5600
+    "word": "Tacos"
   },
   {
     "id": 4,
-    "word": "Crema",
-    "score": 3200
+    "word": "Crema"
   },
   {
     "id": 5,
-    "word": "Apple",
-    "score": 7400
+    "word": "Apple"
   },
   {
     "id": 6,
-    "word": "Sushi",
-    "score": 8700
+    "word": "Sushi"
   },
   {
     "id": 7,
-    "word": "Mante",
-    "score": 4100
+    "word": "Mante"
   },
   {
     "id": 8,
-    "word": "Nacho",
-    "score": 6700
+    "word": "Nacho"
   },
   {
     "id": 9,
-    "word": "Bagel",
-    "score": 5200
+    "word": "Bagel"
   },
   {
     "id": 10,
-    "word": "Curry",
-    "score": 8400
+    "word": "Curry"
   },
   {
     "id": 11,
-    "word": "Pesto",
-    "score": 3900
+    "word": "Pesto"
   },
   {
     "id": 12,
-    "word": "Salte",
-    "score": 3600
+    "word": "Salte"
   },
   {
     "id": 13,
-    "word": "Menta",
-    "score": 4400
+    "word": "Menta"
   },
   {
     "id": 14,
-    "word": "Molle",
-    "score": 3100
+    "word": "Molle"
   },
   {
     "id": 15,
-    "word": "Pasta",
-    "score": 4900
+    "word": "Pasta"
   },
   {
     "id": 16,
-    "word": "Chile",
-    "score": 6200
+    "word": "Chile"
   },
   {
     "id": 17,
-    "word": "Penas",
-    "score": 5300
+    "word": "Penas"
   },
   {
     "id": 18,
-    "word": "Huevo",
-    "score": 8800
+    "word": "Huevo"
   },
   {
     "id": 19,
-    "word": "Brodo",
-    "score": 4300
+    "word": "Brodo"
   },
   {
     "id": 20,
-    "word": "Nacho",
-    "score": 7100
+    "word": "Nacho"
   }
   ],
   "profile": {
